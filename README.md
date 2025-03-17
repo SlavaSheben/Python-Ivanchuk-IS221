@@ -1,4 +1,4 @@
 # Python-Ivanchuk-IS221
-7. https://colab.research.google.com/drive/13uGJtkjua_jomhacrM4btfKOU4SJAH33?usp=sharing
+7. https://colab.research.google.com/drive/13uGJtkjua_jomhacrM4btfKOU4SJAH33?usp=sharing она 7
 10. https://colab.research.google.com/drive/10mseLKoySuXu4ofHwda5tXPNLEZB62sc?usp=sharing она 10 
-11. https://colab.research.google.com/drive/19n30dj6DfF4f3yDQmyeL2IHUeyWpSREx?usp=sharing
+11. https://colab.research.google.com/drive/19n30dj6DfF4f3yDQmyeL2IHUeyWpSREx?usp=sharing она 11
