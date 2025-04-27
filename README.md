@@ -4,3 +4,4 @@
 11. https://colab.research.google.com/drive/19n30dj6DfF4f3yDQmyeL2IHUeyWpSREx?usp=sharing она 11
 13. https://colab.research.google.com/drive/1xkwwQTgIapN8NTiI4qNhApytIXy-_Faa?usp=sharing она 13
 20. https://colab.research.google.com/drive/1XVbLCwTZY_JtjtaxLhHp-nfXIgOxZgFZ?usp=sharing
+21. https://colab.research.google.com/drive/1pwyL_-B383b9j6iI2GLkmvqmMxMl3sZ7?usp=sharing
